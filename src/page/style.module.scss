@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+.menu {
+  background-color: rgb(74, 183, 255);
+  height: 10vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  font-size: 2em;
+  color: white;
+}
+
+.icon {
+  color: white;
+  cursor: pointer;
+}
+
+.card {
+  border: solid;
+  width: 150px;
+  text-align: center;
+  padding: 5px;
+}
+
+.text {
+  color: red;
+}
